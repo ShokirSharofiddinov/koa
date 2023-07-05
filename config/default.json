@@ -1,0 +1,15 @@
+{
+  "port": 3003,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "Poilkjmnb098",
+  "db_port": 5432,
+  "db_name": "e-navbat",
+  "crypt_password": "Very_very_Secret_P@55w0rd",
+  "iv": "28408e46",
+  "refresh_key": "BuRefeshUchunMahfiyKalit",
+  "refresh_time": "2d",
+  "refresh_ms": 2592000000,
+  "access_key": "BuAccssUchunMahfiyKalit",
+  "access_time": "1d"
+}
